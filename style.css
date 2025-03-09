@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+}
+
+html {
+    background-color: bisque;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 75%;
+}
+
+td {
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+
+.w33 {
+    width: 33.3333%;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.h50 {
+    height: 50px;
+}
